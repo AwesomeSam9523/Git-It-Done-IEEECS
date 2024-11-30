@@ -6,5 +6,6 @@ Basic Hello World
 #include <stdio.h>
 
 main() {
-    printf("Hello World!");
+    printf("my name is ojas khandelwal");
+    
 }
